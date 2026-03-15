@@ -6,6 +6,13 @@ Esse projeto foi recriado com o objetivo de praticar conceitos importantes do fr
 
 ---
 
+
+📸 Preview
+
+![Preview do projeto](./public/Tela-dashboard.png)
+
+![Preview do projeto](./public/Tela-dashboar-Dark.png)
+
 ## 🚀 Tecnologias utilizadas
 
 - React
