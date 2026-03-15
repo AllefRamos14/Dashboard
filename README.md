@@ -11,8 +11,8 @@ Esse projeto foi recriado com o objetivo de praticar conceitos importantes do fr
 
 ![Preview do projeto](./public/Tela-dashboard.png)
 
-![Preview do projeto](./public/Tela-dashboar-Dark.png)
-<img src="./public/Tela-dashboard.png" width="800" style="border-radius:20px;" />
+![Preview do projeto](./public/Tela-dashboard-Dark.png)
+
 
 ## 🚀 Tecnologias utilizadas
 
