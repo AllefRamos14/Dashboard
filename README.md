@@ -1,16 +1,41 @@
-# React + Vite
+# 📊 Admin Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto de painel administrativo desenvolvido com **React** e **Vite**, com foco em componentização, organização de layout, responsividade e modo escuro.
 
-Currently, two official plugins are available:
+Esse projeto foi recriado com o objetivo de praticar conceitos importantes do front-end moderno, transformando um layout em uma aplicação mais organizada com React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Tecnologias utilizadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- Styled Components
+- React Router DOM
+- JavaScript
+- CSS
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Funcionalidades
+
+- Layout de dashboard moderno
+- Estrutura com componentes reutilizáveis
+- Navegação entre páginas
+- Dark mode
+- Responsividade
+- Organização visual de cards, pedidos recentes e informações do usuário
+
+---
+
+## 📁 Estrutura do projeto
+
+```bash
+src
+├── assets
+├── Components
+├── pages
+├── routes
+├── styles
+├── App.jsx
+└── main.jsx
